@@ -21,7 +21,7 @@ To run the testing code on a test video ("Test_video.avi"):
 1. python facepad-test.py -input Test_video.avi -isVideo 1
 2. It will generate a txt file in the Score folder which contains the score for each frame.
 
-
+## Acknowledge
 Please cite the paper:
 
     @inproceedings{eccv18jourabloo,
