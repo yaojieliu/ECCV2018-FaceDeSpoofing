@@ -22,11 +22,22 @@ To run the testing code on a test video ("Test_video.avi"):
 
 
 Please cite the paper:
-1. Face De-Spoofing: Anti-Spoofing via Noise Modeling
-   Amin Jourabloo*, Yaojie Liu*, Xiaoming Liu 
-   In Proceeding of European Conference on Computer Vision (ECCV 2018), Munich, Germany, Sep. 2018
 
-2. Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision
-   Yaojie Liu*, Amin Jourabloo*, Xiaoming Liu 
-   In Proceeding of IEEE Computer Vision and Pattern Recognition (CVPR 2018), Salt Lake City, UT, Jun. 2018
+   @inproceedings{eccv18jourabloo,
+        title={Face De-Spoofing: Anti-Spoofing via Noise Modeling},
+        author={Amin Jourabloo*, Yaojie Liu*, Xiaoming Liu},
+        booktitle={In Proceeding of European Conference on Computer Vision (ECCV 2018)},
+        address={Munich, Germany},
+        year={2018}
+    }
+    
+    @inproceedings{eccv18jourabloo,
+        title={Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision},
+        author={Yaojie Liu*, Amin Jourabloo*, Xiaoming Liu},
+        booktitle={In Proceeding of IEEE Computer Vision and Pattern Recognition (CVPR 2018)},
+        address={Salt Lake City, UT},
+        year={2018}
+    }
 
+If you have any question, please contact: amin.jourabloo@gmail.com 
+   
