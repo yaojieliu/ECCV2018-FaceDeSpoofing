@@ -1,6 +1,8 @@
 # Face De-Spoofing: Anti-Spoofing via Noise Modeling
 Amin Jourabloo*, Yaojie Liu*, Xiaoming Liu
 
+![alt text](http://www.cse.msu.edu/~liuyaoj1/images/caption_eccv18_git.png)
+
 ## Setup
 Install the Tensorflow >=1.1, <2.0.
 
