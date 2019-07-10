@@ -28,9 +28,9 @@ tf.app.flags.DEFINE_boolean('use_fp16', False,
                             """Train the model using fp16.""")
 
 # Global constants describing the CIFAR-10 data set.
-IMAGE_SIZE = cifar10_input.IMAGE_SIZE
-NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = cifar10_input.NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN
-NUM_EXAMPLES_PER_EPOCH_FOR_EVAL = cifar10_input.NUM_EXAMPLES_PER_EPOCH_FOR_EVAL
+IMAGE_SIZE = data_train.IMAGE_SIZE
+NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = data_train.NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN
+NUM_EXAMPLES_PER_EPOCH_FOR_EVAL = data_train.NUM_EXAMPLES_PER_EPOCH_FOR_EVAL
 
 
 # Constants describing the training process.
